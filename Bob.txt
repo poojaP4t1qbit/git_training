@@ -1,1 +1,5 @@
-Hi Bob!!! How are you? I am changing you. This change is in the branch bobby_branch. 
+<<<<<<< HEAD
+Hi Bobby!!! How are you? I am changing you. This change is in the branch bobby_branch. 
+=======
+Hi Bobby!!! How are you?
+>>>>>>> git_training_branch
